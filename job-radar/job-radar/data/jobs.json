@@ -1,0 +1,1166 @@
+{
+ "schema": "job-radar/1",
+ "jobs": [
+  {
+   "id": "cyclad-sf-ba-agentforce",
+   "added": "2026-11-12",
+   "bullets": [
+    "Built an Agentforce AI-readiness offer and configured Salesforce AI agents integrated with CRM; Agentforce Specialist and AI Associate certified.",
+    "Translate business requirements into Salesforce-ready specs — objects, Flows, integrations and Agentforce use cases — and run UAT alongside architects and developers.",
+    "4+ years CRM consulting/BA across retail and multi-country clients: discovery, requirements engineering and a prioritised backlog of user stories."
+   ],
+   "company": "Cyclad",
+   "contract": "B2B, full-time",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "100% remote, B2B"
+   ],
+   "gaps": [
+    "Ad excludes training-only Agentforce profiles — frame your agent builds and AI-readiness offer as real implementation",
+    "Years not stated but senior framing"
+   ],
+   "language": "English B2",
+   "live": "unverified",
+   "liveEvidence": "rocketjobs.pl page read 17 Nov: no date, no apply control in the text",
+   "mode": "100% remote (Warsaw)",
+   "salary": "160–180 PLN/h net",
+   "score": 90,
+   "source": "rocketjobs.pl (Cyclad)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Business Analyst (Agentforce)",
+   "track": "Consultant/BA (Agentforce)",
+   "url": "https://rocketjobs.pl/oferta-pracy/cyclad-salesforce-business-analyst-agentforce--warszawa-consulting-it-telekomunikacja",
+   "why": [
+    "Hands-on Agentforce implementation is mandatory — your Agentforce Specialist cert plus AI-agent/CRM work",
+    "Writes Salesforce-ready specs (objects, Flows, integrations, Agentforce use cases) and supports UAT — your BA work",
+    "Retail projects are a plus — your Tier 1 vertical"
+   ]
+  },
+  {
+   "id": "objectfirst-sf-ba",
+   "added": "2026-11-17",
+   "bullets": [
+    "Gathered and documented Sales Cloud requirements as user stories in Jira and Confluence, working with business and delivery stakeholders.",
+    "Fixed MCAE/Pardot–Salesforce sync issues and built Record-Triggered Flows, custom report types and lead-source dashboards.",
+    "Salesforce Administrator, Platform App Builder and Agentforce Specialist certified; 4+ years on Salesforce as admin, consultant and BA, including a 1M+ account data migration."
+   ],
+   "company": "Object First (Veeam)",
+   "contract": "Not stated — confirm B2B",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (Greenhouse apply form, 'New' badge)"
+   ],
+   "gaps": [
+    "Contract type not stated (likely employment) — confirm B2B is possible",
+    "Works with North America and EMEA teams — some late calls likely",
+    "Russian listed as a plus — not on your profile"
+   ],
+   "language": "English (proficient)",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Greenhouse page live with 'Apply for this job' form and 'New' badge, no closed notice (17 Nov)",
+   "mode": "Remote (Poland)",
+   "posted": "",
+   "salary": "Not disclosed",
+   "score": 90,
+   "scoreParts": {
+    "adjust": 0,
+    "bonus": 0,
+    "cap": null,
+    "domain": 12,
+    "must": 50,
+    "nice": 13,
+    "seniority": 15
+   },
+   "source": "Greenhouse (Object First)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Business Analyst",
+   "track": "Consultant/BA",
+   "url": "https://job-boards.eu.greenhouse.io/objectfirsts/jobs/4866557101",
+   "why": [
+    "Sales Cloud depth, requirements documentation and stakeholder work — your BA/consultant core",
+    "Jira listed as a must-have — you've worked with Jira and Confluence",
+    "Only 2+ yrs as a Salesforce BA asked; Admin cert and marketing-ops background are listed pluses you hold"
+   ]
+  },
+  {
+   "id": "sowelo-ccaas-consultant",
+   "added": "2026-10-29",
+   "bullets": [
+    "Coordinated Amazon Connect contact-centre go-lives in the US and Canada: IVR and call-flow design, skills-based routing and queue logic, UAT and hypercare.",
+    "Configured Service Cloud Voice and Omni-Channel and integrated voice with Salesforce CRM, translating business needs into functional specifications.",
+    "Led stakeholder workshops and end-user training through SIT/UAT and cutover; comfortable in remote, milestone-driven delivery."
+   ],
+   "company": "Sowelo Consulting (client: UK consulting firm, unnamed)",
+   "contract": "Fixed-term, 6 months (day rate)",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (ATS form)",
+    "Fixed-term 6 months",
+    "Kuwait travel at milestones"
+   ],
+   "gaps": [
+    "Breadth wanted (Genesys/NICE/Avaya/Sprinklr); you have Amazon Connect depth, not the others",
+    "Onsite travel to Kuwait required at milestones",
+    "No vendor CCaaS certification"
+   ],
+   "language": "English (Arabic a plus)",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "ATS page live with 'Apply for this position' form (17 Nov)",
+   "mode": "Remote (Poland) + travel to Kuwait",
+   "salary": "up to 225 GBP/day",
+   "score": 86,
+   "source": "nofluffjobs.com / Sowelo",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "CCaaS Functional Consultant (fixed-term)",
+   "track": "Consultant/BA (contact centre)",
+   "url": "https://soweloconsulting.theresumator.com/apply/yv0t0PwNRE/CCaaS-Functional-Consultant-Fully-Remote-fixed-Term",
+   "why": [
+    "CCaaS configuration — IVR, skills-based routing, queues, agent desktop, SIT/UAT, cutover, hypercare — mirrors your Amazon Connect go-lives",
+    "Amazon Connect named among target platforms; CRM integration (Salesforce/Dynamics) is a listed plus you hold",
+    "Stakeholder workshops and training — your consulting/BA strength"
+   ]
+  },
+  {
+   "id": "sportalliance-sf-admin-ba",
+   "added": "2026-11-17",
+   "bullets": [
+    "Salesforce Administrator (ADM-201) and Platform App Builder certified; former Senior Salesforce Admin on a multi-country Service Cloud engagement.",
+    "Turned stakeholder needs into user stories and low-code solutions: Record-Triggered Flows, custom report types and dashboards.",
+    "Product owner of an app built and published on AppExchange — SaaS product experience from scope to release."
+   ],
+   "company": "Sport Alliance",
+   "contract": "B2B",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (Lever page live; Lever removes closed postings)",
+    "Flexible hours"
+   ],
+   "gaps": [
+    "Asks 5+ yrs of Salesforce — you're at ~4.5",
+    "Subscription/SaaS experience is a plus — frame your AppExchange product work"
+   ],
+   "language": "English (fluent)",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Lever page live (HTTP 200) with the full ad, no closed notice (17 Nov)",
+   "mode": "Remote (Poland), optional Warsaw office",
+   "posted": "",
+   "salary": "16,000–23,000 PLN net/month (B2B)",
+   "score": 86,
+   "scoreParts": {
+    "adjust": 0,
+    "bonus": 0,
+    "cap": null,
+    "domain": 15,
+    "must": 46,
+    "nice": 15,
+    "seniority": 10
+   },
+   "source": "Lever (Sport Alliance)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Administrator / Business Analyst",
+   "track": "Senior Administrator / BA",
+   "url": "https://jobs.eu.lever.co/sportalliance/b61c164e-f398-497c-8387-d3c457ef5d9b",
+   "why": [
+    "ADM-201 is the one required cert — you hold it",
+    "Sales Cloud depth, requirements gathering, user stories and low-code delivery — your admin/BA mix",
+    "B2B, remote from Poland with an optional Warsaw office, English only"
+   ]
+  },
+  {
+   "id": "beinit-agentforce-consultant",
+   "added": "2026-11-11",
+   "bullets": [],
+   "company": "Be in IT (client unnamed)",
+   "contract": "B2B, full-time, long-term",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "ASAP start, max 1-month notice"
+   ],
+   "gaps": [
+    "Wants documented production Agentforce implementation — frame your AI-readiness offer and agent work concretely",
+    "Notice period must be one month or less"
+   ],
+   "language": "English B2/C1",
+   "lastChecked": "2026-11-11",
+   "live": "unverified",
+   "liveEvidence": "Seen only on a mirror ('Dodano dziś' on czyjesteldorado, source SOLID.Jobs); original not found",
+   "mode": "Fully remote, flexible hours",
+   "salary": "23,500–30,200 PLN net/month (B2B)",
+   "score": 85,
+   "source": "czyjesteldorado (mirror of SOLID.Jobs)",
+   "status": "New",
+   "statusChanged": "2026-11-11",
+   "tier": "Tier 1",
+   "title": "Senior Salesforce Agentforce Consultant",
+   "track": "Consultant/BA (Agentforce)",
+   "url": "https://czyjesteldorado.pl/praca/345407-senior-salesforce-agentforce-consultant-be-in-it",
+   "why": [
+    "Agentforce Service implementation and configuration — your Agentforce Specialist cert plus Service Cloud delivery",
+    "Functional role: objects, flows, integrations, use cases, UAT prep and defect triage — no coding asked",
+    "Retail experience is a plus — your Tier 1 vertical"
+   ]
+  },
+  {
+   "id": "creatio-ai-consultant",
+   "added": "2026-10-30",
+   "bullets": [
+    "Built an AI-readiness (Agentforce) offer and Claude-based agent workflows; turns business problems into AI solution concepts with success metrics",
+    "Salesforce Agentforce Specialist; designs AI agents integrated with CRM and enterprise systems",
+    "4 years CRM consulting/BA: discovery, requirements, presales and exec-facing solution design across multi-country clients"
+   ],
+   "company": "Creatio",
+   "contract": "Not stated",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (Lever)",
+    "Creatio platform, not Salesforce"
+   ],
+   "gaps": [
+    "Creatio platform, not Salesforce — platform certs don't transfer directly",
+    "Ad's seniority tags conflict (mid vs senior)"
+   ],
+   "language": "English",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Lever ad live with 'apply for this job', no closed notice (17 Nov)",
+   "mode": "Remote (Poland)",
+   "salary": "Not disclosed",
+   "score": 85,
+   "source": "Creatio / Lever",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "AI Consultant",
+   "track": "AI / Consulting",
+   "url": "https://jobs.eu.lever.co/creatio/aed85481-1a04-4d05-851f-6c56efe8a79a",
+   "why": [
+    "AI agent design + CRM integration is exactly your Agentforce + Claude-workflow work",
+    "Solution consulting: turn business problems into solution concepts, requirements and success metrics — your presales/BA work",
+    "Enterprise, multi-stakeholder, exec-facing — all held"
+   ]
+  },
+  {
+   "id": "itransition-sf-connect-specialist",
+   "added": "2026-10-29",
+   "bullets": [
+    "Designed and delivered Salesforce Service Cloud + Amazon Connect solutions — CTI integration, Omni-Channel, Service Cloud Voice — for US/Canada go-lives.",
+    "Translated contact-centre requirements into functional specs and call-flow/queue designs; ran UAT, go-live and hypercare.",
+    "Salesforce Administrator, Agentforce Specialist and AI Associate certified; 4+ yrs across Sales and Service Cloud as admin, consultant and BA."
+   ],
+   "company": "Itransition",
+   "contract": "Not stated",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (employer page with form)",
+    "Asks 5+ yrs on Salesforce + cloud telephony"
+   ],
+   "gaps": [
+    "Senior, architecture-leading focus; you're ~4 yrs and role asks 5+",
+    "AWS Solutions Architect cert and CI/CD for AWS/SF deployments not in your profile",
+    "Service Cloud Voice not explicitly named (Service Console/CTI focus)"
+   ],
+   "language": "English",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Employer page live with application form, no closed notice (17 Nov)",
+   "mode": "Remote (EU-eligible)",
+   "salary": "Not disclosed",
+   "score": 85,
+   "source": "itransition careers",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "Senior Salesforce & Amazon Connect Specialist",
+   "track": "Consultant/BA (contact centre)",
+   "url": "https://www.itransition.com/careers/senior-salesforce-amazon-connect-specialist",
+   "why": [
+    "Service Cloud + Amazon Connect + CTI integration + Omni-Channel — exactly your contact-centre/CRM voice delivery",
+    "Remote and EU-eligible, English-only — fits your setup",
+    "Service Cloud Consultant cert is a listed plus, adjacent to your Agentforce/Service Cloud Voice background"
+   ]
+  },
+  {
+   "id": "neontri-sf-ba",
+   "added": "2026-11-12",
+   "bullets": [
+    "Document business processes and map requirements to Salesforce capabilities, turning them into Epics, Features and User Stories with BPMN/UML models.",
+    "Run client discovery workshops and demos for 30+ audiences, bridging business stakeholders and development teams across the IT system lifecycle.",
+    "Salesforce Administrator certified, 4+ years as BA/consultant on Sales and Service Cloud, including greenfield builds and data migration."
+   ],
+   "company": "Neontri (client unnamed)",
+   "contract": "B2B, full-time",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Fully remote, B2B"
+   ],
+   "gaps": [
+    "Posts for an unnamed client — less certainty on the project",
+    "BPMN/UML and Agile are nice-to-haves (you hold them)"
+   ],
+   "language": "English (very good)",
+   "live": "unverified",
+   "liveEvidence": "rocketjobs.pl page read 17 Nov: no date, no apply control in the text",
+   "mode": "Fully remote (Warsaw)",
+   "salary": "Not disclosed",
+   "score": 85,
+   "source": "rocketjobs.pl (Neontri)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Business Analyst",
+   "track": "Consultant/BA",
+   "url": "https://rocketjobs.pl/oferta/neontri-salesforce-business-analyst",
+   "why": [
+    "Document processes, map requirements to Salesforce, turn them into Epics/Features/User Stories — your exact BA work",
+    "Runs customer workshops and knows the IT system lifecycle — held",
+    "3+ yrs as IT/Business Analyst or SF Consultant — you're above it"
+   ]
+  },
+  {
+   "id": "creatio-presales-engineer",
+   "added": "2026-10-29",
+   "bullets": [
+    "Own presales on CRM opportunities: build and run demo scenarios, respond to RFI/RFP, and configure low-code solutions to prove fit against client requirements.",
+    "Map business processes (BPMN) and translate them into configurable CRM flows across Sales, Service and marketing-automation use cases.",
+    "4+ yrs consulting/BA experience with strong stakeholder communication; fast to ramp on new platforms (Salesforce admin, Agentforce, Amazon Connect)."
+   ],
+   "company": "Creatio",
+   "contract": "Not stated",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (Lever)",
+    "Creatio platform, not Salesforce",
+    "You're already preparing a CV for this one"
+   ],
+   "gaps": [
+    "Creatio-specific platform (not Salesforce) — some ramp-up",
+    "Entry-to-mid framing; may read junior relative to your current title"
+   ],
+   "language": "English (upper-intermediate/advanced)",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Lever ad live with 'apply for this job', no closed notice (17 Nov)",
+   "mode": "Hybrid (Warsaw, remote-first)",
+   "salary": "Not disclosed (\"competitive\")",
+   "score": 84,
+   "source": "justjoin.it / Lever",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Presales Engineer",
+   "track": "Presales/BD",
+   "url": "https://jobs.eu.lever.co/creatio/b83db655-05a4-474a-b881-3d5b99404ee4",
+   "why": [
+    "Presales is your current work: demo scenarios, RFI/RFP support, solution configuration and internal training — direct match",
+    "CRM/BPM platform with BPMN and low-code config — aligns with your Salesforce presales and process work",
+    "Only 1+ yr required; you sit well above, hybrid Warsaw, English-only"
+   ]
+  },
+  {
+   "id": "docplanner-sf-admin",
+   "added": "2026-11-05",
+   "bullets": [],
+   "company": "Docplanner",
+   "contract": "Full-time; contract type not stated",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Agentforce Specialist + Data Cloud certs listed as nice-to-have"
+   ],
+   "gaps": [
+    "Advanced relational database design emphasized — lighter in your profile",
+    "Contract type not stated (Docplanner typically UoP) — confirm B2B is possible",
+    "A step down from BA/Consultant title"
+   ],
+   "language": "English (fluent)",
+   "lastChecked": "2026-11-09",
+   "live": "unverified",
+   "liveEvidence": "Seen only on a mirror ('Dodano 13 dni temu'); Docplanner's own listing could not be read",
+   "mode": "100% remote (Poland or Spain)",
+   "salary": "Not disclosed",
+   "score": 84,
+   "source": "czyjesteldorado (mirror of Docplanner posting)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Administrator (100% remote, Poland or Spain)",
+   "track": "Senior Administrator",
+   "url": "https://czyjesteldorado.pl/praca/339806-salesforce-administrator-100-remote-in-poland-or-spain-docplanner",
+   "why": [
+    "Advanced SF admin across Sales and Service Cloud, flows, approval and assignment rules — your core",
+    "Data Loader, Workbench, Inspector, mass imports/updates/exports — matches your data-migration work",
+    "Security and data integrity (sharing rules, profiles, permissions, FLS, audits) — held",
+    "Remote within Poland, English only"
+   ]
+  },
+  {
+   "id": "nexio-sf-ba-hybrid",
+   "added": "2026-11-06",
+   "bullets": [],
+   "closedOn": "2026-11-17",
+   "company": "Nexio Management (client unnamed)",
+   "contract": "B2B",
+   "expires": "2026-12-24",
+   "flags": [
+    "CLOSED 2026-11-17",
+    "Closing date 25.10.2026 has passed — the remote Nexio role is still open"
+   ],
+   "gaps": [
+    "Asks 4–5 yrs as BA (2+ on Salesforce)",
+    "Polish C1 required"
+   ],
+   "language": "Polish C1, English B1",
+   "lastChecked": "2026-11-17",
+   "live": "closed",
+   "liveEvidence": "justjoin.it shows 'until 25.10.2026' next to this ad's Apply bar",
+   "mode": "Hybrid Warsaw (flexible, office for workshops)",
+   "salary": "Not disclosed",
+   "score": 84,
+   "source": "justjoin.it",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Business Analyst",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/job-offer/nexio-management-sp-z-o-o--salesforce-business-analyst-k-m-n--warszawa-analytics",
+   "why": [
+    "Same greenfield Sales + Service build: requirements, user stories, BPMN/UML, UAT",
+    "Service Cloud queues, SLA, escalations and case assignment named — matches your Omni-Channel/contact-centre work",
+    "Pluses you hold: Admin cert, integrations, data migration"
+   ]
+  },
+  {
+   "id": "volt-senior-sf-admin",
+   "added": "2026-11-12",
+   "bullets": [],
+   "company": "Volt",
+   "contract": "B2B, permanent",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Hybrid with coworking offices"
+   ],
+   "gaps": [
+    "Admin title is a step down from BA/Consultant",
+    "Scale-up SaaS tool stack (Gong, Thena, Ironclad) you'd ramp on"
+   ],
+   "language": "English (stakeholder-facing)",
+   "live": "unverified",
+   "liveEvidence": "justjoin.it page read 17 Nov: 'new' badge and Apply, but no closing date",
+   "mode": "Hybrid (Warsaw/Cracow/Gdansk, mostly remote)",
+   "salary": "Not disclosed",
+   "score": 84,
+   "source": "justjoin.it (Volt)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Senior Salesforce Administrator",
+   "track": "Senior Administrator",
+   "url": "https://justjoin.it/offers/volt-senior-salesforce-administrator-warszawa-support",
+   "why": [
+    "Admin cert + advanced Sales Cloud, basic Service Cloud and strong Flow automation — your core",
+    "AppExchange and third-party integrations (Gong, Ironclad, Sales Navigator) — matches your integration work",
+    "Only 2+ yrs required; hybrid mostly-remote, B2B"
+   ]
+  },
+  {
+   "id": "avenga-sf-ba",
+   "added": "2026-11-12",
+   "bullets": [],
+   "company": "Avenga",
+   "contract": "B2B",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Remote, B2B",
+    "Distinct from the Avenga Wrocław-office BA noted last run"
+   ],
+   "gaps": [
+    "Data-management focus — lighter on process/BPMN than your usual BA work",
+    "Requirements nearly identical to an expired SNI ad — may be the same client"
+   ],
+   "language": "English B2",
+   "live": "unverified",
+   "liveEvidence": "justjoin.it page read 17 Nov: no date, no apply control in the text",
+   "mode": "Remote (Poland)",
+   "salary": "52–63 USD/h net",
+   "score": 80,
+   "source": "justjoin.it (Avenga)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Business Analyst",
+   "track": "Consultant/BA (data)",
+   "url": "https://justjoin.it/offers/avenga-salesforce-business-analyst-poland-remote--analytics",
+   "why": [
+    "Salesforce Admin cert required — you hold it",
+    "Production Salesforce data, data quality/merging and complex datasets — your data-migration work",
+    "Remote Poland, B2B, senior"
+   ]
+  },
+  {
+   "id": "customertimes-sf-admin",
+   "added": "2026-11-03",
+   "bullets": [],
+   "company": "Customertimes",
+   "contract": "B2B, full-time",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (employer page)"
+   ],
+   "gaps": [
+    "A step down from BA/Consultant",
+    "CPQ exposure unclear"
+   ],
+   "language": "English upper-intermediate; Polish an advantage",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Employer page live with 'Apply now' (job JR-89778), no closed notice (17 Nov)",
+   "mode": "Remote (Poland)",
+   "salary": "Not disclosed",
+   "score": 80,
+   "source": "customertimes.com",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Administrator",
+   "track": "Senior Administrator",
+   "url": "https://www.customertimes.com/open-positions/salesforce-administrator",
+   "why": [
+    "Sales, Service Cloud and CPQ administration, reports, dashboards, permission sets, validation rules: core admin",
+    "Salesforce Administrator cert required, you hold it",
+    "B2B, remote, Polish a bonus"
+   ]
+  },
+  {
+   "id": "nexio-sf-ba-remote",
+   "added": "2026-11-06",
+   "bullets": [
+    "Translated business needs into Salesforce configuration and automation across Sales Cloud, Service Cloud and Service Cloud Voice for international clients.",
+    "Ran requirements, UAT and hypercare for US/Canada telephony go-lives, including queue, routing and voicemail design.",
+    "Maintained data quality, permissions and release activities across multi-region orgs; Salesforce Administrator certified."
+   ],
+   "company": "Nexio Management (client unnamed)",
+   "contract": "B2B / UoP / mandate",
+   "expires": "2026-12-04",
+   "flags": [
+    "Verified open 17 Nov — closes 4 Dec",
+    "Ad and workshops in Polish — your Polish is B1"
+   ],
+   "gaps": [
+    "Whole role runs in Polish (ad in Polish) — real risk at Polish B1",
+    "Formal BA title is recent (Dec 2025) — frame Mobilunity/Spyrosoft analysis work as BA",
+    "Polish-language workshops"
+   ],
+   "language": "Polish (ad in Polish)",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "justjoin.it: '17 day left (until 04.12.2026)' next to this ad's Apply bar (17 Nov)",
+   "mode": "Remote",
+   "salary": "Not disclosed",
+   "score": 80,
+   "source": "justjoin.it",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Analityk Biznesowo-Systemowy (Salesforce)",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/job-offer/nexio-management-analityk-biznesowo-systemowy-salesforce-k-m-n--warszawa-analytics",
+   "why": [
+    "New Salesforce Full CRM (Sales & Service) built from scratch plus data migration — requirements, AS-IS/TO-BE, user stories, UAT",
+    "3–5 yrs BA/system analysis incl. 2+ yrs on Salesforce projects — met",
+    "Salesforce Admin cert and greenfield experience are listed pluses"
+   ]
+  },
+  {
+   "id": "rits-crm-ba-creatio",
+   "added": "2026-11-11",
+   "bullets": [],
+   "company": "RITS Professional Services",
+   "contract": "B2B (employment also possible)",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Creatio platform, ties in with your Creatio Academy plan"
+   ],
+   "gaps": [
+    "Creatio, not Salesforce — ramp-up needed",
+    "Listing date not visible"
+   ],
+   "language": "English B2/C1, Polish B2",
+   "lastChecked": "2026-11-11",
+   "live": "unverified",
+   "liveEvidence": "justjoin.it page read 17 Nov: no date, no apply control in the text",
+   "mode": "Remote",
+   "salary": "Not disclosed",
+   "score": 80,
+   "source": "justjoin.it",
+   "status": "New",
+   "statusChanged": "2026-11-11",
+   "tier": "Tier 2",
+   "title": "CRM Business Analyst (Creatio)",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/job-offer/rits-professional-services-crm-business-analyst-warszawa-analytics",
+   "why": [
+    "2–3 yrs BA in CRM/ERP asked — you're above that",
+    "Sales, marketing and service processes plus presales support — your mix",
+    "Salesforce/Dynamics experience listed as a plus; Creatio certification supported"
+   ]
+  },
+  {
+   "id": "limango-ai-automation",
+   "added": "2026-11-06",
+   "bullets": [],
+   "company": "limango (OTTO Group)",
+   "contract": "UoP or B2B",
+   "expires": "2027-01-25",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Original 'Automation AI Manager' ad no longer found; this is the live successor",
+    "AI-driven CRM workflow automation is the core of the role"
+   ],
+   "gaps": [
+    "Platform is Emarsys, not Salesforce",
+    "SQL expected, Databricks optional"
+   ],
+   "language": "English C1",
+   "lastChecked": "2026-11-09",
+   "live": "unverified",
+   "liveEvidence": "Employer page read 17 Nov: no date and no apply form visible",
+   "mode": "Remote (Poland)",
+   "salary": "Not disclosed",
+   "score": 78,
+   "source": "limango careers (direct)",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "CRM Automation Manager – Tools & Data",
+   "track": "AI / Marketing tech",
+   "url": "https://joinus.limango.com/CRM-Automation-Manager-Tools-Data-mfd-eng-j1066.html",
+   "why": [
+    "Find, pilot and run AI automations with business teams, measured by KPIs — your Claude workflows + Flow automation",
+    "Business analysis + process improvement background asked",
+    "E-commerce/retail = your Tier 1 vertical; works with the CRM team"
+   ]
+  },
+  {
+   "id": "lingaro-crm-consultant",
+   "added": "2026-11-05",
+   "bullets": [],
+   "company": "Lingaro",
+   "contract": "Flexible (B2B possible)",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (employer page)",
+    "Contract and seniority not stated"
+   ],
+   "gaps": [
+    "Uses legacy Process Builder/workflows in the JD",
+    "Power BI + sales analytics on large datasets emphasized — lighter for you",
+    "Years/seniority and contract not stated"
+   ],
+   "language": "Not stated",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Employer careers page live with 'Apply now', no closed notice (17 Nov)",
+   "mode": "Remote (office optional)",
+   "salary": "Not disclosed",
+   "score": 78,
+   "source": "lingarogroup.com",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "CRM Consultant (Salesforce)",
+   "track": "Senior Administrator",
+   "url": "https://lingarogroup.com/careers/crm-consultant",
+   "why": [
+    "Salesforce administration — data hygiene, pipeline/lead management, dashboards and reporting — your core admin work",
+    "Automation and security (roles, profiles, sharing rules, permission sets) — held",
+    "Training materials and training non-technical stakeholders — your consulting strength",
+    "Remote with flexible contract form (B2B possible)"
+   ]
+  },
+  {
+   "id": "youriteams-sf-ba-consultant",
+   "added": "2026-11-12",
+   "bullets": [],
+   "company": "YouriTeams",
+   "contract": "B2B",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Onsite role; confirm any hybrid flexibility",
+    "B2B"
+   ],
+   "gaps": [
+    "Onsite Warsaw — you prefer remote or hybrid",
+    "Mid framing may read junior relative to your title"
+   ],
+   "language": "Not stated",
+   "live": "unverified",
+   "liveEvidence": "justjoin.it page read 17 Nov: 'New' badge, company not shown, no date",
+   "mode": "Onsite (Warsaw office)",
+   "salary": "4,223–5,531 USD net/month",
+   "score": 78,
+   "source": "justjoin.it (YouriTeams)",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "Salesforce Business Analyst/Consultant",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/job-offer/youriteams-salesforce-business-analyst-consultant-warszawa-analytics",
+   "why": [
+    "Declarative config + hands-on implementation of a Salesforce product (Service/Community Cloud) — held",
+    "Implements business processes working with clients and dev teams — your consulting/BA work",
+    "Only 2+ yrs required; tagged New"
+   ]
+  },
+  {
+   "id": "awin-mcae",
+   "added": "2026-10-26",
+   "bullets": [],
+   "company": "Awin",
+   "contract": "Not stated",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (Greenhouse apply form)"
+   ],
+   "gaps": [
+    "Hands-on MCAE admin depth is partial vs a dedicated specialist",
+    "MCAE Specialist cert listed as a plus — confirm yours is current"
+   ],
+   "language": "English",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Greenhouse ad live with apply form, no closed notice (17 Nov)",
+   "mode": "Remote / hybrid (Warsaw)",
+   "salary": "Not disclosed",
+   "score": 76,
+   "source": "greenhouse (Awin)",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "Marketing Cloud Account Engagement Specialist",
+   "track": "Marketing Ops / MCAE",
+   "url": "https://boards.greenhouse.io/awin/jobs/6499050003",
+   "why": [
+    "MCAE/Pardot is your area — you troubleshot MCAE–Salesforce sync and studied MC-201",
+    "2+ yrs required, B2B marketing automation and legacy migration — met",
+    "Knowledge of how Account Engagement connects to Salesforce"
+   ]
+  },
+  {
+   "id": "epam-senior-sf-ba-remote",
+   "added": "2026-11-11",
+   "bullets": [],
+   "company": "EPAM Systems",
+   "contract": "Not stated (EPAM usually B2B or UoP)",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (EPAM careers page)"
+   ],
+   "gaps": [
+    "CPQ background is a plus — not on your CV",
+    "Heavy documentation focus (FDDs, user guides)"
+   ],
+   "language": "English (daily client contact)",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "EPAM careers page still shows the vacancy 'Remote in Poland' with an apply control (17 Nov)",
+   "mode": "Remote in Poland",
+   "salary": "Not disclosed",
+   "score": 76,
+   "source": "careers.epam.com (direct)",
+   "status": "New",
+   "statusChanged": "2026-11-11",
+   "tier": "Tier 2",
+   "title": "Senior Salesforce Business Analyst (Sales, Service, Community Cloud)",
+   "track": "Consultant/BA",
+   "url": "https://careers.epam.com/en/vacancy/senior-salesforce-business-analyst-blt3s9v8jumr3mx2r1t_en",
+   "why": [
+    "Discovery sessions, stakeholder management and functional documentation on Salesforce implementations — your BA work",
+    "Sales, Service and Community Cloud — you cover the first two in depth",
+    "No minimum years stated"
+   ]
+  },
+  {
+   "id": "sii-sf-ba-service-cloud",
+   "added": "2026-11-09",
+   "bullets": [
+    "Acted as Product Owner for a Salesforce AppExchange product: set direction, feature scope and priorities, and turned decisions into developer-ready requirements.",
+    "Delivered Service Cloud work for US/Canada contact-centre go-lives — queues, routing, UAT and hypercare.",
+    "Ran discovery workshops and demos for audiences of 30+, translating business needs into Salesforce solutions."
+   ],
+   "company": "Sii Poland",
+   "contract": "Not stated (Sii usually offers B2B or UoP)",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (sii.pl apply form)"
+   ],
+   "gaps": [
+    "Polish level required above your B1 — ad asks for 'excellent English and Polish communication skills'",
+    "Basic SOQL is a plus — light on your CV",
+    "Polish at a high level required"
+   ],
+   "language": "Excellent English and Polish",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "sii.pl ad live with Quick apply form (JOB-2HLCK), no closed notice (17 Nov)",
+   "mode": "Remote / hybrid / office",
+   "salary": "Not disclosed",
+   "score": 76,
+   "source": "sii.pl (direct)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Business Analyst (Service Cloud, product focus)",
+   "track": "Consultant/BA",
+   "url": "https://sii.pl//en/job-ads/id/38004/salesforce-business-analyst-f-m-x",
+   "why": [
+    "Owns Service Cloud-based products: backlog, priorities, workshops — your BA work plus your hands-on product ownership on a Salesforce app",
+    "Accepts 4+ yrs as PO, PM, BA or Salesforce Consultant — your mixed history counts",
+    "Service Cloud hands-on asked — Omni-Channel, Service Cloud Voice, contact-centre go-lives"
+   ]
+  },
+  {
+   "id": "epam-senior-sf-ba",
+   "added": "2026-11-06",
+   "bullets": [],
+   "closedOn": "2026-11-17",
+   "company": "EPAM Systems",
+   "contract": "B2B or UoP",
+   "expires": "2026-12-31",
+   "flags": [
+    "CLOSED 2026-11-17",
+    "Closing date 01.11.2026 has passed"
+   ],
+   "gaps": [
+    "5+ yrs as Salesforce BA",
+    "Quoting/CPQ and document generation not on your CV"
+   ],
+   "language": "English B2",
+   "lastChecked": "2026-11-17",
+   "live": "closed",
+   "liveEvidence": "justjoin.it shows 'until 01.11.2026' next to this ad's Apply bar",
+   "mode": "Remote within Poland",
+   "salary": "Not disclosed",
+   "score": 75,
+   "source": "justjoin.it",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "Senior Salesforce Business Analyst",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/job-offer/epam-systems-senior-salesforce-business-analyst-warsaw-erp-f7562df1",
+   "why": [
+    "Legacy app → Salesforce CRM replacement: data model, quoting, document generation, integrations, migration",
+    "'AI-versed' BA wanted — GenAI in BA work is your edge",
+    "Works directly with the client business owner — your client-facing style"
+   ]
+  },
+  {
+   "id": "booksy-senior-sf-ba",
+   "added": "2026-11-11",
+   "bullets": [],
+   "company": "Booksy",
+   "contract": "Full-time; contract type not stated",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (Workable)",
+    "Remote anywhere in Europe; 6+ yrs as BA asked"
+   ],
+   "gaps": [
+    "Asks 6+ yrs as a BA — a stretch on your ~4 yrs",
+    "In-house support load (end-user support) alongside BA work"
+   ],
+   "language": "English",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Workable ad live with 'Apply for this job' (jobs.workable.com copy of the same posting, 17 Nov)",
+   "mode": "Remote (Poland)",
+   "salary": "Not disclosed",
+   "score": 74,
+   "source": "Workable (direct)",
+   "status": "New",
+   "statusChanged": "2026-11-11",
+   "tier": "Tier 2",
+   "title": "Senior Salesforce Business Analyst",
+   "track": "Consultant/BA",
+   "url": "https://apply.workable.com/booksy-1/jobs/view/2B9F81606C",
+   "why": [
+    "Mandatory certs are Admin + Platform App Builder — you hold both",
+    "Sales Cloud, Service Cloud and Salesforce AI hands-on; Agentforce and Data Cloud are pluses",
+    "Internal product company: process improvement and adoption across Sales, CS and Product"
+   ]
+  },
+  {
+   "id": "dcg-senior-ba-salesforce",
+   "added": "2026-11-12",
+   "bullets": [],
+   "company": "DCG",
+   "contract": "B2B",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Apply button present; work mode unconfirmed — verify remote/hybrid",
+    "Posting date not shown"
+   ],
+   "gaps": [
+    "Must-have is a professional BA qualification (BCS/AgileBA/PMI-PBA) — not on your CV",
+    "Work mode and salary unclear from the ad"
+   ],
+   "language": "Not stated",
+   "live": "unverified",
+   "liveEvidence": "justjoin.it page read 17 Nov: title not shown, no date",
+   "mode": "Warsaw (work mode not stated)",
+   "salary": "Not clearly stated (ad figure looks mis-parsed)",
+   "score": 74,
+   "source": "justjoin.it (DCG)",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "Senior Business Analyst with Salesforce",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/job-offer/dcg-senior-business-analyst-with-salesforce-warszawa-analytics",
+   "why": [
+    "2+ yrs BA with Service/Sales Cloud — met",
+    "Agile and Waterfall, CRM/customer-facing systems, large-org BA work — your experience",
+    "Salesforce certs are a listed plus — you hold several"
+   ]
+  },
+  {
+   "id": "enxoo-sf-consultant",
+   "added": "2026-11-06",
+   "bullets": [],
+   "company": "Enxoo",
+   "contract": "B2B or UoP",
+   "expires": "2026-11-18",
+   "flags": [
+    "CLOSES 18 Nov — apply today if at all",
+    "Polish fluent required — your Polish is B1"
+   ],
+   "gaps": [
+    "Polish level required above your B1 — ad asks for fluent Polish",
+    "Pay band tops at 18k PLN/month",
+    "Occasional client travel"
+   ],
+   "language": "English C1, Polish fluent",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "justjoin.it: 'until 18.11.2026' next to this ad's Apply bar (17 Nov)",
+   "mode": "Hybrid (Warsaw office)",
+   "salary": "10,000–18,000 PLN/month",
+   "score": 72,
+   "source": "justjoin.it",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Salesforce Consultant",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/job-offer/enxoo-salesforce-consultant-warszawa-analytics",
+   "why": [
+    "Requirements to backlog, user stories, process modelling, acceptance testing — your consulting/BA work",
+    "2+ yrs as consultant at an IT company + standard SF config — met; certs are a plus",
+    "Salesforce partner with own products — fits your product/AppExchange experience"
+   ]
+  },
+  {
+   "id": "creatio-nocode-ba",
+   "added": "2026-10-30",
+   "bullets": [],
+   "company": "Creatio",
+   "contract": "Not stated",
+   "expires": "",
+   "flags": [
+    "Verified open 17 Nov (Lever)",
+    "Creatio platform, not Salesforce"
+   ],
+   "gaps": [
+    "Asks for T-SQL and hands-on DB design depth",
+    "Product-research oriented; Creatio-specific, not Salesforce"
+   ],
+   "language": "English",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "Lever ad live with 'apply for this job', no closed notice (17 Nov)",
+   "mode": "Remote (Poland)",
+   "salary": "Not disclosed",
+   "score": 71,
+   "source": "Creatio / Lever",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "No-Code Business Analyst (Industries & Strategy)",
+   "track": "Consultant/BA",
+   "url": "https://jobs.eu.lever.co/creatio/c562b6dc-4233-41fc-a776-9d789918484c",
+   "why": [
+    "Business analysis, requirements gathering and BPMN process modelling — your daily work",
+    "No-code UI/process configuration is close to your Salesforce admin/Flow work",
+    "CRM/BPM/no-code experience listed as a plus"
+   ]
+  },
+  {
+   "id": "epam-lead-ba",
+   "added": "2026-10-26",
+   "bullets": [],
+   "closedOn": "2026-11-17",
+   "company": "EPAM Systems",
+   "contract": "B2B (agreed individually)",
+   "expires": "2026-11-30",
+   "flags": [
+    "CLOSED 2026-11-17",
+    "Closing date 30.09.2026 has passed"
+   ],
+   "gaps": [
+    "Asks 5+ yrs as a Salesforce BA specifically; your BA title is recent (total SF ~4 yrs)",
+    "'Lead' expects coaching other BAs"
+   ],
+   "language": "English (B2)",
+   "lastChecked": "2026-11-17",
+   "live": "closed",
+   "liveEvidence": "justjoin.it shows 'until 30.09.2026' next to this ad's Apply bar",
+   "mode": "Remote within Poland",
+   "salary": "Not disclosed",
+   "score": 70,
+   "source": "justjoin.it",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Lead Business Analyst (Service Cloud, Sales Cloud)",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/job-offer/epam-systems-lead-business-analyst-service-cloud-sales-cloud--warsaw-erp",
+   "why": [
+    "SF BA on a global CRM transformation: requirements, user stories, process mapping, UAT — your current work",
+    "Multi-region rollout experience (Safilo, multi-country) fits",
+    "ERP/CRM integration incl. Dynamics is a plus you have"
+   ]
+  },
+  {
+   "id": "productiv-senior-sf-consultant",
+   "added": "2026-11-02",
+   "bullets": [],
+   "company": "Productiv Team",
+   "contract": "B2B available",
+   "expires": "",
+   "flags": [
+    "not confirmed open on 2026-11-17 — check the ad before applying",
+    "Asks 5+ yrs BA at a consulting firm"
+   ],
+   "gaps": [
+    "Wants 5+ yrs BA at a consulting firm plus 3+ yrs on tech projects (stretch)",
+    "US-hours schedule until 23:00",
+    "Mentoring and leadership advising expected"
+   ],
+   "language": "English",
+   "lastChecked": "2026-11-09",
+   "live": "unverified",
+   "liveEvidence": "justjoin.it page read 17 Nov: no date, no apply control in the text",
+   "mode": "Remote (Poland)",
+   "salary": "50–60 USD/h B2B",
+   "score": 70,
+   "source": "justjoin.it",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "Senior Salesforce Consultant (Poland)",
+   "track": "Consultant/BA",
+   "url": "https://justjoin.it/offers/productiv-team-senior-consultant---salesforce-poland--poland-remote--other",
+   "why": [
+    "B2B and fully remote, Poland-based",
+    "Requirements gathering and BA on Salesforce implementations",
+    "Salesforce implementation/admin experience asked"
+   ]
+  },
+  {
+   "id": "sii-ba-sf-platform",
+   "added": "2026-11-09",
+   "bullets": [],
+   "company": "Sii Poland",
+   "contract": "Not stated",
+   "expires": "",
+   "flags": [
+    "Open but rescored 69: fluent Polish + 4+ yrs as BA on Salesforce required"
+   ],
+   "gaps": [
+    "Polish level required above your B1 — ad requires 'płynna znajomość języka polskiego'",
+    "Asks 4+ yrs as a BA on Salesforce projects (stretch)",
+    "Fluent Polish required"
+   ],
+   "language": "Fluent Polish, business English",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "sii.pl ad live with Quick apply form (260611-3E7TF) (17 Nov)",
+   "mode": "Remote / hybrid / office",
+   "salary": "Not disclosed",
+   "score": 69,
+   "source": "sii.pl (direct)",
+   "status": "New",
+   "tier": "Tier 1",
+   "title": "Business Analyst – Salesforce platform",
+   "track": "Consultant/BA",
+   "url": "https://sii.pl//en/job-ads/id/37145/business-analyst-salesforce-platform-f-m-x",
+   "why": [
+    "Requirements, documentation, estimates, UML/BPMN, client workshops — core BA work",
+    "Needs 2 of 3 core clouds — you have Sales and Service"
+   ]
+  },
+  {
+   "id": "actdigital-service-cloud",
+   "added": "2026-10-26",
+   "bullets": [],
+   "company": "act digital",
+   "contract": "B2B",
+   "expires": "2026-11-22",
+   "flags": [
+    "Open until 22 Nov but rescored 65: Polish B2 required (you're B1) + 5 yrs Apex/LWC dev",
+    "You already applied to a different act digital role (Analityk Biznesowy – Salesforce CRM) on 6 Nov"
+   ],
+   "gaps": [
+    "Polish level required above your B1 — ad asks for Polish B2",
+    "Wants 5+ yrs hands-on Apex/LWC/SOQL development — heavier coding than your profile",
+    "Requires working hours overlapping US Eastern time (Pittsburgh)"
+   ],
+   "language": "English (B2), Polish (B2)",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "justjoin.it: 'until 22.11.2026' next to this ad's Apply bar (17 Nov)",
+   "mode": "Remote",
+   "salary": "up to 30 USD/h",
+   "score": 65,
+   "source": "justjoin.it",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "SalesForce Service Cloud Specialist",
+   "track": "Consultant/BA (Service Cloud)",
+   "url": "https://justjoin.it/job-offer/act-digital-salesforce-service-cloud-specialist-warszawa-other",
+   "why": [
+    "Service Cloud is core and Agentforce/Einstein is a listed nice-to-have you hold",
+    "Case Management, Omni-Channel, Knowledge, integrations — all familiar",
+    "B2B, remote, mid"
+   ]
+  },
+  {
+   "id": "itlt-cdp-ba",
+   "added": "2026-11-06",
+   "bullets": [],
+   "company": "ITLT (client unnamed)",
+   "contract": "B2B",
+   "expires": "2026-12-01",
+   "flags": [
+    "Open until 1 Dec but rescored 64: Polish B2 required (you're B1)"
+   ],
+   "gaps": [
+    "Polish level required above your B1 — ad asks for Polish B2",
+    "Adobe AEP/RTCDP is the stack (nice-to-have) — not yours",
+    "SQL/API a plus"
+   ],
+   "language": "English C1, Polish B2",
+   "lastChecked": "2026-11-17",
+   "live": "verified",
+   "liveEvidence": "justjoin.it: 'until 01.12.2026' next to this ad's Apply bar (17 Nov)",
+   "mode": "Hybrid Warsaw (2 office days/week)",
+   "salary": "120–145 PLN/h net",
+   "score": 64,
+   "source": "justjoin.it",
+   "status": "New",
+   "tier": "Tier 2",
+   "title": "Business Analyst – CRM / Customer Data (CDP)",
+   "track": "AI / Marketing tech",
+   "url": "https://justjoin.it/job-offer/itlt-business-analyst---crm-customer-data-cdp--warszawa-analytics-0171a1b1",
+   "why": [
+    "Requirements for CDP, personalization, audiences and activation across European markets — MarTech BA",
+    "3 yrs BA asked — met; standard PL hours",
+    "Bridges your CRM and marketing-ops experience"
+   ]
+  }
+ ]
+}

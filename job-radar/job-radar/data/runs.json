@@ -1,0 +1,117 @@
+{
+ "runs": [
+  {
+   "checked": 25,
+   "closed": 3,
+   "date": "2026-11-17",
+   "kept": 2,
+   "misses": [
+    {
+     "company": "EPAM Systems",
+     "reason": "CLOSED: justjoin.it shows 'until 30.09.2026'",
+     "score": null,
+     "title": "Lead Business Analyst (Service Cloud, Sales Cloud)"
+    },
+    {
+     "company": "EPAM Systems",
+     "reason": "CLOSED: justjoin.it shows 'until 01.11.2026'",
+     "score": null,
+     "title": "Senior Salesforce Business Analyst (justjoin)"
+    },
+    {
+     "company": "Nexio Management",
+     "reason": "CLOSED: justjoin.it shows 'until 25.10.2026'; the remote Nexio role is open",
+     "score": null,
+     "title": "Salesforce Business Analyst (hybrid)"
+    },
+    {
+     "company": "Craftware",
+     "reason": "Found already closed: 'until 26.10.2026'",
+     "score": null,
+     "title": "Salesforce Consultant"
+    },
+    {
+     "company": "DataArt",
+     "reason": "Found already closed: 'until 27.04.2026'; also US hours",
+     "score": null,
+     "title": "Business Analyst with Salesforce CRM (GMT-4)"
+    },
+    {
+     "company": "Netwise",
+     "reason": "Found already closed: 'until 18.10.2026'; Polish C2 required",
+     "score": null,
+     "title": "Analityk Biznesowy – Dynamics 365 CRM"
+    },
+    {
+     "company": "Kolomolo",
+     "reason": "Published 13.09.2025 (stale); architect role, 3+ yrs Connect/Lex/AWS",
+     "score": null,
+     "title": "Amazon Connect Solution Architect (Client-Facing)"
+    },
+    {
+     "company": "Xebia",
+     "reason": "Both Xebia BA links redirect to the Recruitee home page — removed",
+     "score": null,
+     "title": "Salesforce Business Analyst (Recruitee)"
+    },
+    {
+     "company": "act digital",
+     "reason": "Open until 22 Nov but rescored 65: Polish B2 + 5 yrs Apex/LWC dev",
+     "score": 65,
+     "title": "SalesForce Service Cloud Specialist"
+    },
+    {
+     "company": "ITLT",
+     "reason": "Open until 1 Dec but rescored 64: Polish B2 required",
+     "score": 64,
+     "title": "Business Analyst – CRM / Customer Data (CDP)"
+    },
+    {
+     "company": "Sii Poland",
+     "reason": "Open but rescored 69: fluent Polish + 4+ yrs as BA on Salesforce",
+     "score": 69,
+     "title": "Business Analyst – Salesforce platform"
+    },
+    {
+     "company": "SoftServe",
+     "reason": "Open, but 6+ yrs and two Sales/Service/Experience consultant certs required",
+     "score": 60,
+     "title": "Lead Salesforce Consultant"
+    },
+    {
+     "company": "Altimetrik (client unnamed)",
+     "reason": "Recruiter post below 85: 6–8+ yrs overall, 4–6+ yrs Service + Experience Cloud",
+     "score": 72,
+     "title": "Salesforce Business Analyst"
+    },
+    {
+     "company": "Coherent Solutions",
+     "reason": "Open, but a software-delivery BA for US mortgage fintech, not CRM",
+     "score": 66,
+     "title": "Business Analyst (Consulting services)"
+    },
+    {
+     "company": "Xebia",
+     "reason": "5+ yrs hands-on HubSpot required; liveness unconfirmed",
+     "score": 55,
+     "title": "HubSpot Consultant / Product Specialist"
+    },
+    {
+     "company": "Crestt",
+     "reason": "Liveness unconfirmed; Product Owner + pharma/agri background asked",
+     "score": null,
+     "title": "Salesforce & AI Lead Consultant"
+    },
+    {
+     "company": "pracuj.pl (3 ads)",
+     "reason": "pracuj.pl blocks automated reading — not assessed",
+     "score": null,
+     "title": "Senior SF BA / Conga CLM admin / CRM SF System Analyst"
+    }
+   ],
+   "mode": "manual: full (recheck + search)",
+   "rechecked": 30,
+   "unverified": 11
+  }
+ ]
+}
